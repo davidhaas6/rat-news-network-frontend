@@ -1,10 +1,8 @@
 :root {
     --color1: #FBC62C;
     --color3: #010100;
-    --color2: #fbe8cc;
+    --color2: #FAF9F6;
 }
-
-
 
 body, html {
     font-family: Arial, sans-serif;
@@ -14,7 +12,7 @@ body, html {
     padding: 0;
     height: 100%;
 
-    font-family: "Playfair Display", serif;
+    font-family: "Merriweather", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -23,7 +21,6 @@ body, html {
 header {
     background: var(--color1);
     color: var(--color3);
-    /* padding-top: -5px; */
     min-height: 70px;
     padding: 0;
     text-transform: uppercase;
@@ -58,7 +55,6 @@ footer {
 .container {
     width: 80%;
     margin: auto;
-    /* overflow: hidden; */
 }
 
 /* Front page
@@ -72,7 +68,6 @@ footer {
     flex-flow: column wrap;
     align-items: start;
     justify-content: flex-start;
-    /* text-align: center; */
 }
 
 .preview {
@@ -89,14 +84,12 @@ footer {
     justify-content: space-evenly;
 
     text-align: left;
-    /* padding: 10px; */
     margin-top: 10px;
 }
 
 
 
 .preview img {
-    /* width: 40%; */
     height: 300px;
     width: auto;
     padding-top: 10px;
@@ -105,18 +98,21 @@ footer {
 }
 
 .preview a {
-    color: inherit;
+    color: var(--color2);
     text-decoration: inherit;
 }
 
-.preview h1 {
+.preview a h1 {
+    color: var(--color2) !important;
     font-size: 30px;
     font-weight: 700;
     min-height: 50%;
     /* max-width: 50%; */
 }
 
-.preview p {
+.preview a p {
+    color: var(--color2) !important;
+
     font-size: 20px;
     font-weight: 400;
     min-height: 50%;
@@ -144,43 +140,28 @@ footer {
     line-height: 1.6;
 }
 
+
 .content img {
-    padding: 20px 0px;
-    margin: 5px;
-    max-width: 500px;
+    padding: 40px 0px;
+    text-align: center;
 }
 
 .overview {
-    /* color: rgba(1, 1, 1, .8); */
     color: var(--color2);
     font-weight: 500;
-    /* font-style: semi-italic; */
     width: 80%;
-    font-size: 1.2em;
+    font-size: 1.4em;
+    line-height: 1.2;
+    font-weight: 500;
 }
 
 .article-body {
     overflow-wrap: normal;
-    width: 80%;
-    /* padding: 20px; */
-    
-    font-size: 1.1em;
+    width: 80%;    
+    font-size: 1.3em;
     background: var(--color3);
-    line-height: 1.5;
-
-    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    line-height: 1.4;
 }
-
-.lead {
-    font-size: 4em;
-    /* margin-bottom: -15px; */
-    margin: 0;
-
-    font-family: "Jacquard 24", system-ui;
-  font-weight: 500;
-  font-style: normal;
-}
-
 
 
 

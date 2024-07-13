@@ -1,128 +1,101 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <title>
-   RNN
-  </title>
-  <link href="/static/styles.css" rel="stylesheet"/>
-  <!-- <link href="http://thomasf.github.io/solarized-css/solarized-light.min.css" rel="stylesheet"></link> -->
-  <!-- <link href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" rel="stylesheet"></link> -->
-  <link href="https://fonts.googleapis.com" rel="preconnect"/>
-  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap" rel="stylesheet"/>
-  <link href="https://fonts.googleapis.com" rel="preconnect"/>
-  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-  <link href="https://fonts.googleapis.com/css2?family=Jacquard+24&amp;family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap" rel="stylesheet"/>
-  <!-- Google tag (gtag.js) -->
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-76T6H7WDC6">
-  </script>
-  <script>
-   window.dataLayer = window.dataLayer || [];
+
+<head>
+    <title>RNN</title>
+    <link href="static/styles.css" rel="stylesheet">
+    <!-- <link href="http://thomasf.github.io/solarized-css/solarized-light.min.css" rel="stylesheet"></link> -->
+    <!-- <link href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" rel="stylesheet"></link> -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jacquard+24&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-76T6H7WDC6"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-76T6H7WDC6');
-  </script>
- </head>
- <body>
-  <header>
-   <div class="container">
-    <a href="/">
-     <h1>
-      Rat News Network
-     </h1>
-    </a>
-    <!-- <nav>
-                <a href="#">Home</a> |
-                <a href="#">News</a> |
-                <a href="#">Contact</a>
-            </nav> -->
-   </div>
-  </header>
-  <div class="container frontpage">
-   <div class="preview">
-    <a href="/articles/a3101208-174e-4cde-9468-8174aae11916">
-     <img alt="article image" src="/articles/a3101208-174e-4cde-9468-8174aae11916.png"/>
-    </a>
-    <a href="/articles/a3101208-174e-4cde-9468-8174aae11916">
-     <h1>
-      The Paw-some Predicament: Ratopolis' Feral Cat Controversy
-     </h1>
-     <p>
-      As the sun sets over Ratopolis, a sense of unease settles over its residents - the city is grappling with a growing feral cat population that has sparked a heated debate on how to tackle the issue, pitting animal lovers against public health advocates and leaving many wondering: what's the solution to this whisker-ific predicament?
-     </p>
-    </a>
-   </div>
-   <div class="preview">
-    <a href="/articles/888a7ecc-d1a6-4712-a5ac-b14d3f61cfa7">
-     <img alt="article image" src="/articles/888a7ecc-d1a6-4712-a5ac-b14d3f61cfa7.png"/>
-    </a>
-    <a href="/articles/888a7ecc-d1a6-4712-a5ac-b14d3f61cfa7">
-     <h1>
-      Ratopolis Rhapsody: A Celebration of Intergenerational Storytelling
-     </h1>
-     <p>
-      Ratopolis has launched a groundbreaking initiative that bridges the gap between generations, preserving the city's rich cultural heritage for posterity - Rat Tales, a heartwarming program where elderly rats share their life stories with youngsters, fostering intergenerational bonding and historical preservation.
-     </p>
-    </a>
-   </div>
-   <div class="preview">
-    <a href="/articles/e40325e9-fa90-44ac-97b8-5b9fa71d20ba">
-     <img alt="article image" src="/articles/e40325e9-fa90-44ac-97b8-5b9fa71d20ba.png"/>
-    </a>
-    <a href="/articles/e40325e9-fa90-44ac-97b8-5b9fa71d20ba">
-     <h1>
-      Rat Idol: The Rise of Novice Nova, Ratopolis' Newest Sensation
-     </h1>
-     <p>
-      In a city where music is a staple of daily life, 19-year-old Novice Nova has emerged as the newest sensation, captivating audiences with her soulful voice and eclectic style, and selling out her debut album "Ratify" in record time, solidifying her position as the most talked-about artist in Ratopolis.
-     </p>
-    </a>
-   </div>
-   <div class="preview">
-    <a href="/articles/002fdabe-c68e-4446-beba-a001bb9fee20">
-     <img alt="article image" src="/articles/002fdabe-c68e-4446-beba-a001bb9fee20.png"/>
-    </a>
-    <a href="/articles/002fdabe-c68e-4446-beba-a001bb9fee20">
-     <h1>
-      The Great River Revival: A New Era for Ratopolis' Waterways
-     </h1>
-     <p>
-      In a move that promises to transform the heart of Ratopolis, the city council has announced a staggering multi-million acorn investment to revitalize the city's polluted rivers, paving the way for a cleaner, healthier environment for residents and a boost to local businesses.
-     </p>
-    </a>
-   </div>
-   <div class="preview">
-    <a href="/articles/36326b32-4041-40d0-b7fc-85f4705e3aec">
-     <img alt="article image" src="/articles/36326b32-4041-40d0-b7fc-85f4705e3aec.png"/>
-    </a>
-    <a href="/articles/36326b32-4041-40d0-b7fc-85f4705e3aec">
-     <h1>
-      Beyond the Burrow: Ratopolis' Hidden Gems for the Adventurous Rat
-     </h1>
-     <p>
-      Tired of the same old routine in Ratopolis? Look no further! Our city is full of hidden gems waiting to be discovered, offering endless opportunities for curious and adventurous rats to explore beyond their usual haunts.
-     </p>
-    </a>
-   </div>
-   <div class="preview">
-    <a href="/articles/4cfe4889-89f8-44c0-8be0-8f679d87b649">
-     <img alt="article image" src="/articles/4cfe4889-89f8-44c0-8be0-8f679d87b649.png"/>
-    </a>
-    <a href="/articles/4cfe4889-89f8-44c0-8be0-8f679d87b649">
-     <h1>
-      Tunnel Visionary: Entrepreneur Ratty Richmond Revolutionizes Commute with High-Speed Tunnel Network
-     </h1>
-     <p>
-      Ratty Richmond has unveiled a revolutionary high-speed tunnel network that could slash commute times in half and bring much-needed relief to Ratopolis' traffic-clogged roads.
-     </p>
-    </a>
-   </div>
-  </div>
-  <footer>
-   <p>
-    AI Generated. © 2024 RatNewsNetwork. All rights reserved.
-   </p>
-  </footer>
- </body>
+    </script>
+
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <a href="/"><h1>Rat News Network</h1></a>
+        </div>
+    </header>
+
+    <div class="container frontpage">
+                
+        
+        <div class="preview">
+            <a href="e3788ee0-9572-4c89-8b4a-2ca46cfaf101.html">
+                <img src="static/img/e3788ee0-9572-4c89-8b4a-2ca46cfaf101.png" alt="article image">
+            </a>
+            <a href="e3788ee0-9572-4c89-8b4a-2ca46cfaf101.html">
+                <h1>Top 10 Must-Visit Ratopian Cafés With the Best Nibbles</h1>
+                <p>In the bustling heart of Ratopolis, where the scent of gourmet nut blends mingles with the fragrance of freshly brewed herb teas, lies a treasure trove of cafés teeming with delectable nibbles waiting to be discovered. For foodies and casual visitors alike, these top ten cafés offer an unforgettable culinary journey that combines cozy atmospheres with mouth-watering delicacies.</p>
+            </a>
+        </div>
+        
+        
+        
+        <div class="preview">
+            <a href="335e07c6-7b86-4a33-a6f6-a85cb8e1240d.html">
+                <img src="static/img/335e07c6-7b86-4a33-a6f6-a85cb8e1240d.png" alt="article image">
+            </a>
+            <a href="335e07c6-7b86-4a33-a6f6-a85cb8e1240d.html">
+                <h1>The Hidden Talent of Ratopolis: A Spotlight on Rat Artists</h1>
+                <p>Ratopolis, a vibrant metropolis, thrives on the creativity of its residents. Among these, a group of talented artists captures the essence and spirit of rat society through their incredible works of art, portraying both everyday life and extraordinary tales.</p>
+            </a>
+        </div>
+
+        <div class="preview">
+            <a href="f6a88039-b9e1-4be9-ab35-b8a4c1e39afb.html">
+                <img src="static/img/f6a88039-b9e1-4be9-ab35-b8a4c1e39afb.png" alt="article image">
+            </a>
+            <a href="f6a88039-b9e1-4be9-ab35-b8a4c1e39afb.html">
+                <h1>Underground Gardens Thriving in the Heart of Downtown Ratopolis</h1>
+                <p>Beneath the bustling streets of downtown Ratopolis, an unexpected garden oasis flourishes through the hard work and passion of dedicated volunteers. These lush underground gardens, initiated by a community-driven project, are transforming urban living by promoting sustainability and healthy eating.</p>
+            </a>
+        </div>
+        
+        
+        <div class="preview">
+            <a href="b01ca634-b102-426c-83ff-44b254d317f9.html">
+                <img src="static/img/b01ca634-b102-426c-83ff-44b254d317f9.png" alt="article image">
+            </a>
+            <a href="b01ca634-b102-426c-83ff-44b254d317f9.html">
+                <h1>Ratopolis Takes to the Sky – New Air Transport System Announced</h1>
+                <p>Mayor Whiskers of Ratopolis has unveiled an innovative air transport system that promises to revolutionize commuting in the city by utilizing repurposed pigeon nests and engineered leaves.</p>
+            </a>
+        </div>
+        
+        
+        <div class="preview">
+            <a href="53bd9e09-6d74-4dae-87ce-cbe6e2fdea0f.html">
+                <img src="static/img/53bd9e09-6d74-4dae-87ce-cbe6e2fdea0f.png" alt="article image">
+            </a>
+            <a href="53bd9e09-6d74-4dae-87ce-cbe6e2fdea0f.html">
+                <h1>Bridging the Gap: Interspecies Friendship and Tolerance in Ratopolis</h1>
+                <p>In a city where rats, pigeons, and squirrels coexist harmoniously, the inspirational bond between Remy the Rat and Polly the Pigeon has captured the hearts of Ratopolis, highlighting the profound impact of interspecies friendships on our community.</p>
+            </a>
+        </div>
+        
+    </div>
+
+    <footer>
+        <p>AI Generated. &copy; 2024 Rat News Network. All rights reserved.</p>
+    </footer>
+</body>
+
 </html>
