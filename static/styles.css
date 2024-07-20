@@ -62,9 +62,10 @@ h1  {
 
 header h1 {
     font-size: 60px;
-    padding: 0;
+    padding: 0px 20px;
     text-transform: uppercase;
     flex: 3;
+    width: fit-content;
 }
 
 
@@ -181,6 +182,7 @@ footer {
     flex-flow: column wrap;
     align-items: start;
     justify-content: flex-start;
+    padding: 20px 0px;
 }
 
 .preview {
@@ -240,7 +242,7 @@ footer {
     padding: 20px;
     display: flex;
     flex-flow: column nowrap;
-    align-items: start;
+    align-items: center;
 }
 
 .content h1 {
@@ -253,7 +255,8 @@ footer {
 
 
 .content img {
-    padding: 40px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
     max-width: 100%;
 }
@@ -261,10 +264,20 @@ footer {
 .overview {
     color: var(--color2);
     font-weight: 500;
-    width: 80%;
+    width: 100%;
     font-size: 1.4em;
     line-height: 1.2;
     font-weight: 500;
+    padding: 15px 0px;
+}
+
+.article-container {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items:center;
+    justify-content:center;
+    padding: 20px;
+    width: 100%;
 }
 
 .article-body {
@@ -273,7 +286,8 @@ footer {
     font-size: 1.3em;
     background: var(--color3);
     line-height: 1.4;
-    text-align: justify;
+    text-align: left;
+    max-width: 1000px;
 }
 
 
@@ -286,6 +300,14 @@ footer {
 
     .hide-on-small {
         display: none;
+    }
+
+    header {
+        justify-content: center;
+    }
+    header h1 {
+        font-size: 50px;
+        padding: 5px;
     }
 
     .frontpage {
@@ -325,11 +347,32 @@ footer {
     }
 
     .content img {
-        padding: 20px 0px;
+        padding-top: 20px;
+        padding-bottom: 0px;
         margin: 5px;
         max-width: 95%;
     }
-    
+
+    .article-body {
+        width: 100%;
+        font-size: 1.2em;
+    }
     
 }
 
+@media (max-width: 550px) {
+    header h1 {
+        font-size: 35px;
+        padding: 5px;
+    }
+}
+
+@media (max-width: 500px) {
+    header h1 {
+        font-size: 35px;
+        padding: 5px;
+    }
+    .content h1 {
+        font-size: 40px;
+    }
+}
