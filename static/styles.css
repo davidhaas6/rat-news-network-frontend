@@ -65,7 +65,7 @@ header h1 {
     padding: 0px 20px;
     text-transform: uppercase;
     flex: 3;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 
