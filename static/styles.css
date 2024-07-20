@@ -16,7 +16,7 @@
     box-sizing: border-box;
 }
 
-body, html {
+body, html, .site {
     font-family: Arial, sans-serif;
     color: var(--color2);
     background: var(--color3);
@@ -28,8 +28,11 @@ body, html {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+   
+}
 
-    
+.site {
+    max-width: 1600px;
 }
 
 header {
