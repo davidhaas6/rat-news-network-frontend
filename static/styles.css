@@ -251,9 +251,6 @@ footer {
     min-height: 50%;
     margin: 0;
 }
-}
-
-
 
 /* Article
  -
@@ -357,7 +354,7 @@ footer {
         font-size: 35px;
         font-weight: 700;
         /* min-height: 50%; */
-        text-align: center;
+        text-align: left;
         /* max-width: 50%; */
     }
 
