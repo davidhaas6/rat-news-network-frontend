@@ -201,6 +201,26 @@ footer {
     margin-top: 10px;
 }
 
+.preview-body {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: start;
+    justify-content: flex-start;
+    padding: 20px 0px;
+}
+
+.read-time {
+    color: var(--cream);
+    font-size: 1.2em;
+    font-weight: 500;
+    padding: 5px 0px;
+    width: 100%;
+    text-align: left;
+    /* font-style: italic; */
+    /* text-transform: uppercase; */
+
+}
+
 
 .preview img {
     height: 300px;
@@ -229,6 +249,8 @@ footer {
     font-size: 20px;
     font-weight: 400;
     min-height: 50%;
+    margin: 0;
+}
 }
 
 
