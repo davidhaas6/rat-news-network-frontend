@@ -65,7 +65,7 @@ header h1 {
     padding: 0px 20px;
     text-transform: uppercase;
     flex: 3;
-    width: 100%;
+    /* width: 100%; */
     /* width: fit-content; */
 }
 
@@ -268,6 +268,7 @@ footer {
 
 .content h1 {
     font-size: 50px;
+    width: 100%;
 }
 
 .content p {
