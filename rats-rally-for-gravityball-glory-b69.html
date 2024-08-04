@@ -51,7 +51,7 @@
                 <h1><span class="site-title">RAT NEWS NETWORK</span></h1>
             </a>
             <div class="menu-blurb hide-on-small">
-                <h3>NEW: NEWS ARCHIVE</h3>
+                <h3>NEW COMMENT SECTION</h3>
             </div>
             <div class="menu-blurb hide-on-small">
                 <h3 id="temperature">900°R</h3>
@@ -63,7 +63,7 @@
 
         <!-- Sub-header -->
         <section class="sub-header">
-            <div class="submenu-button ">NEWS ARCHIVE</div>
+            <!-- <div class="submenu-button ">NEWS ARCHIVE</div> -->
             <div class="submenu-button"><a href="https://tiktok.com/@ratnewsnetwork">RAT TV</a></div>
             <div class="submenu-button "><a href="http://www.tailegraph.co.uk/"><span class="hide-on-small">THE
                     </span>TAILEGRAPH</a></div>
@@ -88,9 +88,9 @@
 <div class="container content">
     <h1>Subterranean Showdowns: Rat Gravityball Takes Off</h1>
     <div class="overview">Gravityball is taking Ratopolis by storm, as rats from all boroughs swarm to underground arenas to watch this thrilling new sport—a blend of agility and strategy defying the very laws of physics in a way only our clever critters can.</div>
-    
-    <span class="read-time">3 minute read</span>
-    
+    <span class="read-time">3 minute read • 
+        <a href="#comments-section" id="scroll-to-comments" class="comments-link">Comments</a><span>
+    </span>
     
     <img src="static/img/rats-rally-for-gravityball-glory-b69.webp" alt="article image">
     
@@ -104,7 +104,7 @@
             <i>Looking for more in-depth news and exclusive content? Follow <a href="https://tiktok.com/@ratnewsnetwork">RAT TV</a> for real-time updates, behind-the-scenes insights and the latest breaking news.</i>
         </span>
     </div>
-    <div class="article-comments">
+    <div id="comments-section" class="article-comments">
         <h1>Comments</h1>
         
     </div>
@@ -129,6 +129,14 @@
     document.querySelectorAll('.vote-down-count').forEach(button => {
         button.addEventListener('click', () => {
             incrementButton(button, '-');
+        });
+    });
+
+    // smooth scrolling
+    document.getElementById('scroll-to-comments').addEventListener('click', function(e) {
+        e.preventDefault(); // Prevent the default link behavior
+        document.getElementById('comments-section').scrollIntoView({
+            behavior: 'smooth'
         });
     });
 </script>
