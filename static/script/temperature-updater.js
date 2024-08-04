@@ -20,9 +20,7 @@ function updateTemperature() {
     const randomIndex = Math.floor(Math.random() * ratCities.length);
 
     // Update the DOM
-    const temperatureElement = document.getElementById('temperature');
-    console.log(temperatureElement);
-    console.log(`${rankine}°R, ${ratCities[randomIndex]}`);
+    const temperatureElement = document.getElementById('temperature'); 
     if (temperatureElement) {
         temperatureElement.textContent = `${rankine}°R, ${ratCities[randomIndex]}`;
     }
