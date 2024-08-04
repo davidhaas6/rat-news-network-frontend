@@ -316,14 +316,15 @@ footer {
 .article-container {
     display: flex;
     flex-flow: column nowrap;
-    align-items:center;
-    justify-content:center;
+    align-items: flex-start;
+    justify-content: center;
     padding: 20px;
     width: 100%;
 }
 
 .article-body {
     overflow-wrap: normal;
+    color: var(--color2);
     width: 80%;    
     font-size: 1.3em;
     background: var(--color3);
