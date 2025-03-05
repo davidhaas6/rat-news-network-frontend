@@ -159,13 +159,12 @@ async function addSoundButton(sound) {
   playing_sprite.x = x;
   playing_sprite.y = y;
 
-  sound_button.addChild(playing_sprite);
+  sound_button.addChild(muted_sprite);
   app.stage.addChild(sound_button)
 
   // audio control
   const sprite_keys = Object.keys(sound._sprite);
   const base_volume = 0.5;
-  Howler.volume(base_volume);
 
   sound.on('end', function(){
     const sound_id = sprite_keys[Math.floor(Math.random() * sprite_keys.length)];
@@ -181,12 +180,13 @@ async function addSoundButton(sound) {
     sound_button.removeChildAt(0);
 
     if(SOUND_ON) {
-      sound_button.addChild(muted_sprite)
+      sound_button.addChild(playing_sprite)
       console.log(sound)
       const sound_id = sprite_keys[Math.floor(Math.random() * sprite_keys.length)];
+      sound.volume(base_volume);
       sound.play(sound_id);
     } else {
-      sound_button.addChild(playing_sprite)
+      sound_button.addChild(muted_sprite)
       if (sound.playing())
         sound.stop();
     }
