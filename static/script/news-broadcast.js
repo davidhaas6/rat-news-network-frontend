@@ -200,7 +200,7 @@ async function addSoundButton(sound) {
 
 // live transcript
 
-const ratNewsTranscript = `Good day, Ratopolis! This is Rat News Network, and I'm Whiskers Wagtail, here with a squeak-tacular roundup of today's top headlines.
+const transcript = `Good day, Ratopolis! This is Rat News Network, and I'm Whiskers Wagtail, here with a squeak-tacular roundup of today's top headlines.
 
 First up, crime meets stomach-churning creativity: Jasper Longtail Gilder, wanted on multiple warrants, tried hiding stolen Cheddar & Co. jewelry IN his belly. Authorities say the heist might have gone down easier if he'd just used a bag.
 
