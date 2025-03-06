@@ -200,21 +200,18 @@ async function addSoundButton(sound) {
 
 // live transcript
 
-const transcript = `Good day, Ratopolis! This is Rat News Network, and I'm Whiskers Wagtail, here with a squeak-tacular roundup of today's top headlines.
+const transcript = `Good day, Ratopolis! Our top story: Cheese Whiskers Mulino is furious at journalist Whisker Trumpet for claims that the U.S. is reclaiming control of the Cheddar Channel. While CheddarRock Inc. leads the acquisition of port operations, city officials insist it’s purely commercial—though sovereignty concerns are on the rise.
 
-First up, crime meets stomach-churning creativity: Jasper Longtail Gilder, wanted on multiple warrants, tried hiding stolen Cheddar & Co. jewelry IN his belly. Authorities say the heist might have gone down easier if he'd just used a bag.
+In health news, the Ratopolis Center for Disease Control just did a squeak-worthy turnaround, calling back 180 recently laid-off employees with only a day’s notice. Officials cite urgent public health needs, reminding us that cheese safety is no joke.
 
-Meanwhile, Mayor Whiskers McCheese is calling out the Cheddar Council for their big spend on transgender rat experiments. Eight million cheese crumbs? The mayor says science is important—but so is watching your cheddar.
+Meanwhile, excitement for the Rat-Olympics is overshadowed by rampant gambling. Unregulated betting is setting tails aflutter, leaving many to wonder if lawmakers will intervene before fortunes are lost.
 
-In urgent developments, Ratopolis is on shaky ground—literally. A rise in sinkholes has city officials scurrying to stop entire neighborhoods from disappearing beneath our paws. Stay alert, folks!
+In lighter news, a bottle cap craze has swept the Burrowing district. Shiny caps are now coveted tokens of friendship, inspiring squeak-worthy scavenger hunts.
 
-For a breath of fresh air—underground—say hello to the newly unveiled Ratopolis Library. This secretive subterranean labyrinth brims with ancient scrolls and futuristic info-tech, quickly becoming the city's favorite spot for nibbling on knowledge.
+On the transit front, our brand-new snail-paced system aims to slow us down—literally. Advocates say it’s a stress-busting, eco-friendly way to travel.
 
-Looking for some soul food for the mind? Scribble Tail's new philosophical epic, 'Whiskers of Existence,' is challenging every rat to rethink identity and purpose. Early reviews say it'll have you questioning your reflection in the water dish.
+Finally, debate rages over Clawdius the Brave: bold savior of Ratopolis, or morally gray strategist? Whichever side you choose, his legacy looms large. He remains debated. That’s all for now—stay safe, stay curious, and keep nibbling on those headlines!`;
 
-And finally, a wave of nostalgia is sweeping Ratopolis as traditional crafts make a triumphant comeback. Young rats are blending old-school weaving and carving with modern twists, reviving cultural pride one paw-stitch at a time.
-
-That's today's news, Ratopolis! Stay sharp, stay squeaky, and we'll see you tomorrow on RNN!`;
 
 
 function estimateReadingSeconds(text, wordsPerMinute = 200) {
@@ -254,7 +251,7 @@ function countSyllables(word) {
   return syllableMatches ? syllableMatches.length : 1;
 }
 
-function chunkTextForSubtitles(text, maxChunkLength = 30) {
+function chunkTextForSubtitles(text, maxChunkLength = 25) {
   const sentences = text.match(/[^.!?]+[.!?]/g) || [text]; // Split by sentence boundaries
   let chunks = [];
   let currentChunk = "";
