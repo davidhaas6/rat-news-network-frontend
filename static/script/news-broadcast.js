@@ -174,7 +174,11 @@ async function addSoundButton(sound) {
   sound.on('end', function(){
     const sound_id = sprite_keys[Math.floor(Math.random() * sprite_keys.length)];
     const playback_id = sound.play(sound_id);
-    sound.rate(0.9 + Math.random() / 2, playback_id); 
+    let rate = 0.9 + Math.random() / 2;
+    if (Math.random() < 0.01) {
+      rate = 0.4; // make it really slow sometimes... just cause
+    }
+    sound.rate(rate, playback_id); 
     sound.volume(base_volume + (Math.random() - 0.5) / 4, playback_id);
   });
 
