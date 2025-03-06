@@ -200,17 +200,17 @@ async function addSoundButton(sound) {
 
 // live transcript
 
-const transcript = `Good day, Ratopolis! Our top story: Cheese Whiskers Mulino is furious at journalist Whisker Trumpet for claims that the U.S. is reclaiming control of the Cheddar Channel. While CheddarRock Inc. leads the acquisition of port operations, city officials insist it’s purely commercial—though sovereignty concerns are on the rise.
+const transcript = `Good day, Ratopolis! Our top story: Cheese Whiskers Mulino is furious at journalist Whisker Trumpet for claims that the U.S. is reclaiming control of the Cheddar Channel. While CheddarRock Inc. leads the acquisition of port operations, city officials insist it's purely commercial—though sovereignty concerns are on the rise.
 
-In health news, the Ratopolis Center for Disease Control just did a squeak-worthy turnaround, calling back 180 recently laid-off employees with only a day’s notice. Officials cite urgent public health needs, reminding us that cheese safety is no joke.
+In health news, the Ratopolis Center for Disease Control just did a squeak-worthy turnaround, calling back 180 recently laid-off employees with only a day's notice. Officials cite urgent public health needs, reminding us that cheese safety is no joke.
 
 Meanwhile, excitement for the Rat-Olympics is overshadowed by rampant gambling. Unregulated betting is setting tails aflutter, leaving many to wonder if lawmakers will intervene before fortunes are lost.
 
 In lighter news, a bottle cap craze has swept the Burrowing district. Shiny caps are now coveted tokens of friendship, inspiring squeak-worthy scavenger hunts.
 
-On the transit front, our brand-new snail-paced system aims to slow us down—literally. Advocates say it’s a stress-busting, eco-friendly way to travel.
+On the transit front, our brand-new snail-paced system aims to slow us down—literally. Advocates say it's a stress-busting, eco-friendly way to travel.
 
-Finally, debate rages over Clawdius the Brave: bold savior of Ratopolis, or morally gray strategist? Whichever side you choose, his legacy looms large. He remains debated. That’s all for now—stay safe, stay curious, and keep nibbling on those headlines!`;
+Finally, debate rages over Clawdius the Brave: bold savior of Ratopolis, or morally gray strategist? Whichever side you choose, his legacy looms large. He remains debated. That's all for now—stay safe, stay curious, and keep nibbling on those headlines!`;
 
 
 
