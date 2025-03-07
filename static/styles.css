@@ -302,7 +302,22 @@ footer {
     border-width: 5px;
     border-color: var(--color1);
     border-style: solid;
-    box-shadow: 0px 0px 40px rgba(255, 244, 213, 0.3);
+    box-shadow: 0px 0px 30px rgba(255, 244, 213, 0.3);
+}
+
+#twitch-embed {
+    position: fixed;
+    bottom: 330px;
+    right: 20px;
+    width: 256px;
+    height: 148px;
+    z-index: 1000;
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: var(--color1);
+    border-style: solid;
+    box-shadow: 0px 0px 30px rgba(255, 244, 213, 0.3);
 }
 
 
@@ -601,6 +616,13 @@ footer {
         border-style: solid;
         z-index: 0;
     }    
+
+
+#twitch-embed {
+    position: static;
+    z-index: 0;
+}
+
 }
 
 
