@@ -108,29 +108,6 @@
 
 <div class="container frontpage">
     <div id="pixi-container"></div>
-    <div id="twitch-embed"></div>
-
-    <script>
-        window.onload = function () {
-        var embed = new Twitch.Embed("twitch-embed", {
-          width: 246,
-          height: 138,
-          layout: "video",
-          channel: "jackkmango",
-        });
-        console.log("Embed:",embed)
-
-        embed.addEventListener(Twitch.Embed.VIDEO_READY, function() {
-            console.log('The video is ready');
-            console.log("playback2:",embed.getPlaybackStats())
-            console.log("pplayer2:",embed.getPlayerState())
-        });
-        if (!embed) {
-            document.getElementById('twitch-embed').remove();
-        }
-      };
-    
-    </script>
     
     <div class="preview featured">
         <a href="cheese-conundrum-continues-b7" class="preview-img-link">
@@ -205,6 +182,24 @@
     </div>
     
 
+    <div id="twitch-embed"></div>
+    <script>
+        window.onload = function () {
+            const OG_DISPLAY = document.getElementById("twitch-embed").style.display;
+            document.getElementById("twitch-embed").style.display = 'none';
+            var player = new Twitch.Embed("twitch-embed", {
+                width: 246,
+                height: 138,
+                layout: "video",
+                channel: "jackkmango",
+            });
+
+            player.addEventListener(Twitch.Embed.VIDEO_PLAY, function () {
+                console.log('The stream is playing');
+                document.getElementById("twitch-embed").style.display = OG_DISPLAY;
+            });
+        };
+    </script>
 </div>
 
     </main>
