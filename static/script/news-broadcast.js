@@ -315,4 +315,3 @@ app.ticker.add((time) =>{
     read_time_s = Math.max(1, read_time_s);
   }
 });
-
