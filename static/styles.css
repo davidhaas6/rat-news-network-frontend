@@ -471,7 +471,7 @@ footer {
     min-width: 30px;
     border-color: var(--brownish-gray);
     /* border-color: var(--cream); */
-    font-size: 0.7em;
+    font-size: 0.8em;
 }
 
 .vote-down-count {
@@ -481,7 +481,7 @@ footer {
     padding: 3px 0px;
     min-width: 30px;
     border-color: var(--brownish-gray);
-    font-size: 0.7em;
+    font-size: 0.8em;
 }
 
 .vote-up-count.clicked {
@@ -614,6 +614,7 @@ footer {
         font-weight: 700;
         /* min-height: 50%; */
         text-align: left;
+        line-height: 0.9;
         /* max-width: 50%; */
     }
 
