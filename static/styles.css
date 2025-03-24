@@ -168,7 +168,7 @@ header h1 {
     border-radius: 10px;
     /* this creates the rounded corners */
     cursor: pointer;
-    font-size: 16px;
+    font-size: 1.3em;
     transition: 0.3s;
     /* Optional: add some hover effect for better UX */
 }
