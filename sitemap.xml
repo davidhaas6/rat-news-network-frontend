@@ -49,6 +49,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ratnewsnetwork.com/edition/13</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ratnewsnetwork.com/edition/12</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -331,6 +337,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ratnewsnetwork.com/article/rats-green-initiative-92</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ratnewsnetwork.com/article/cheddars-press-predicament-fa</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ratnewsnetwork.com/article/rodent-identity-crisis-84</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,6 +392,12 @@
   </url>
   <url>
     <loc>https://ratnewsnetwork.com/article/claws-for-applause-13</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ratnewsnetwork.com/article/rat-art-revolution-a0</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -434,6 +458,12 @@
   </url>
   <url>
     <loc>https://ratnewsnetwork.com/article/plants-speak-back-ad</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ratnewsnetwork.com/article/cheddar-comedy-crisis-c7</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -506,6 +536,12 @@
   </url>
   <url>
     <loc>https://ratnewsnetwork.com/article/tailspin-tradition-tails-2e</loc>
+    <lastmod>2025-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ratnewsnetwork.com/article/rats-demand-rights-4a</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
