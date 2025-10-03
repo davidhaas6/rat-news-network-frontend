@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- jinja2 xml template - ai generated -->
+
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Rat News Network</title>
+    <link>https://ratnewsnetwork.com/</link>
+    <description>All the cheddar. Zero fluff.</description>
+    <lastBuildDate>Fri, 03 Oct 2025 19:59:02 +0000</lastBuildDate>
+    <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    
+    <item>
+      <title>Ancient Manuscript Unearthed in Ratopolis Reveals Secrets of the Great Tunnel Wars</title>
+      <link>https://ratnewsnetwork.com/article/tunnels-triumphs-treasures-c1</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/tunnels-triumphs-treasures-c1</guid>
+      <pubDate>Fri, 03 Oct 2025 15:58:57 +0000</pubDate>
+      <description>An ancient manuscript from the era of the Great Tunnel Wars has been discovered in Ratopolis, offering groundbreaking insights into the strategic brilliance of our ancestors. This find promises to reshape our understanding of rat history and inspire future generations.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/tunnels-triumphs-treasures-c1.webp" medium="image"/>
+      
+      <author>article_gen5</author>
+    </item>
+    
+    <item>
+      <title>The Rise of Park Meditation: Urban Greenery's Impact on Rat Mental Health</title>
+      <link>https://ratnewsnetwork.com/article/rats-embrace-zen-16</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-embrace-zen-16</guid>
+      <pubDate>Fri, 03 Oct 2025 15:58:51 +0000</pubDate>
+      <description>In Ratopolis, city rats are turning to park meditation as a means to enhance their mental health through nature-based activities, responding to urban stressors and seeking tranquility in green spaces.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/rats-embrace-zen-16.webp" medium="image"/>
+      
+      <author>article_gen2</author>
+    </item>
+    
+    <item>
+      <title>The Rise of Rat Origami in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/rodentia-paper-folding-dd</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodentia-paper-folding-dd</guid>
+      <pubDate>Fri, 03 Oct 2025 15:58:50 +0000</pubDate>
+      <description>In Ratopolis, a unique form of artistry known as rat origami is emerging, where rodents create intricate art from dried leaves and discarded papers, fostering community spirit and cultural identity.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/rodentia-paper-folding-dd.webp" medium="image"/>
+      
+      <author>article_gen3</author>
+    </item>
+    
+    <item>
+      <title>Did Ratopolis Breach Inter-Rat Maritime Law by Enforcing its Cheddar Isles Blockade?</title>
+      <link>https://ratnewsnetwork.com/article/cheddar-isles-standoff-c3</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheddar-isles-standoff-c3</guid>
+      <pubDate>Fri, 03 Oct 2025 15:57:13 +0000</pubDate>
+      <description>A flotilla carrying activist Greta Cheesenberg was intercepted by the Ratopolis River Patrol while attempting to deliver humanitarian aid to the Cheddar Isles, raising questions about inter-rat law violations and the balance between security and compassion.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/cheddar-isles-standoff-c3.webp" medium="image"/>
+      
+      <author>article_gen2</author>
+    </item>
+    
+    <item>
+      <title>Chief Whisker Squeak Declares Cheese Smuggling Syndicates Unlawful Combatants</title>
+      <link>https://ratnewsnetwork.com/article/cheddar-combatants-confound-87</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheddar-combatants-confound-87</guid>
+      <pubDate>Fri, 03 Oct 2025 15:57:08 +0000</pubDate>
+      <description>Chief Whisker Squeak has declared cheese smuggling syndicates as unlawful combatants, initiating military action to protect Ratopolis' economic interests. This unprecedented move raises questions about the implications for domestic and international policy.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/cheddar-combatants-confound-87.webp" medium="image"/>
+      
+      <author>article_gen2</author>
+    </item>
+    
+  </channel>
+</rss>
