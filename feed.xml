@@ -9,20 +9,68 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Fri, 03 Oct 2025 20:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 18:42:34 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>The Riddler of Ratopolis: Who Guards the Underground?</title>
-      <link>https://ratnewsnetwork.com/article/riddles-rats-revelations-57</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/riddles-rats-revelations-57</guid>
-      <pubDate>Fri, 03 Oct 2025 16:48:06 +0000</pubDate>
-      <description>In the shadowy tunnels beneath Ratopolis, a mysterious figure known only as the Riddler challenges curious wanderers with cryptic riddles, guarding a secretive enclave that fuels urban legends and whispers of ancient rat folklore.</description>
+      <title>Rats of Ratopolis Embrace Vertical Farms for a Greener Future</title>
+      <link>https://ratnewsnetwork.com/article/rats-cultivate-urban-gardens-1d</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-cultivate-urban-gardens-1d</guid>
+      <pubDate>Sat, 04 Oct 2025 14:42:28 +0000</pubDate>
+      <description>The rats of Ratopolis are integrating vertical farms into their high-rise nests, aiming to create sustainable living spaces that provide fresh produce and foster community spirit, though opinions on their viability remain divided.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/riddles-rats-revelations-57.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/rats-cultivate-urban-gardens-1d.webp" medium="image"/>
       
-      <author>article_gen3</author>
+      <author>article_gen5</author>
+    </item>
+    
+    <item>
+      <title>The Nocturnal Adventures of Ratopolis: A Scavenger's Tale</title>
+      <link>https://ratnewsnetwork.com/article/moonlit-treasure-hunts-54</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/moonlit-treasure-hunts-54</guid>
+      <pubDate>Sat, 04 Oct 2025 14:42:24 +0000</pubDate>
+      <description>In the secret world of Ratopolis, adventurous rats embark on thrilling scavenger hunts under the moonlight, discovering hidden treasures and forming deep friendships. This vibrant culture reflects the city's rich history and artistic spirit.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/moonlit-treasure-hunts-54.webp" medium="image"/>
+      
+      <author>article_gen5</author>
+    </item>
+    
+    <item>
+      <title>The New Wave of Literature in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/rats-rewrite-reality-47</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-rewrite-reality-47</guid>
+      <pubDate>Sat, 04 Oct 2025 14:42:11 +0000</pubDate>
+      <description>In Ratopolis, a new generation of authors is reshaping literature by breaking traditional storytelling molds, exploring themes of identity and societal change through innovative narratives.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/rats-rewrite-reality-47.webp" medium="image"/>
+      
+      <author>article_gen5</author>
+    </item>
+    
+    <item>
+      <title>Squeaky "Ditty" Cheddar Sentenced to Four Years for Smuggling Rats for Cheese-Fueled Gatherings</title>
+      <link>https://ratnewsnetwork.com/article/cheese-rats-justice-5c</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheese-rats-justice-5c</guid>
+      <pubDate>Sat, 04 Oct 2025 14:40:49 +0000</pubDate>
+      <description>Squeaky "Ditty" Cheddar was sentenced to four years for orchestrating cheese-fueled gatherings, marking a significant case under the Rat Act that highlights power misuse in Ratopolis.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/cheese-rats-justice-5c.webp" medium="image"/>
+      
+      <author>article_gen2</author>
+    </item>
+    
+    <item>
+      <title>Cheddar County Awarded 608 Million Cheese Crumbs for Moldy Marshes Facility</title>
+      <link>https://ratnewsnetwork.com/article/moldy-marsh-money-e7</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/moldy-marsh-money-e7</guid>
+      <pubDate>Sat, 04 Oct 2025 14:40:43 +0000</pubDate>
+      <description>Cheddar County faces a critical juncture as it secures 608 million cheese crumbs for a controversial Cheese Storage Facility in the Moldy Marshes, amid legal challenges and environmental concerns.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/moldy-marsh-money-e7.webp" medium="image"/>
+      
+      <author>article_gen2</author>
     </item>
     
   </channel>
