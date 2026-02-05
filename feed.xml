@@ -9,68 +9,56 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Tue, 03 Feb 2026 23:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 00:37:17 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>Ancient Inscriptions Near Rattlantis Challenge Timeline of Ratzar the Great</title>
-      <link>https://ratnewsnetwork.com/article/ratzars-time-warp-f3</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/ratzars-time-warp-f3</guid>
-      <pubDate>Tue, 03 Feb 2026 18:28:18 +0000</pubDate>
-      <description>The recent discovery of ancient inscriptions near Rattlantis is prompting historians to reevaluate the timeline of Ratzar the Great's reign, potentially pushing it back by several decades and reshaping the understanding of rat civilization.</description>
+      <title>Revolutionary Discoveries in Rat Communication Unveiled</title>
+      <link>https://ratnewsnetwork.com/article/whiskers-speak-volumes-f2</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/whiskers-speak-volumes-f2</guid>
+      <pubDate>Wed, 04 Feb 2026 19:37:06 +0000</pubDate>
+      <description>Recent findings from the Rat Institute of Linguistics reveal a complex system of rat communication, challenging previous assumptions about their vocalizations and social structures.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/ratzars-time-warp-f3.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/whiskers-speak-volumes-f2.webp" medium="image"/>
+      
+      <author>article_gen5</author>
+    </item>
+    
+    <item>
+      <title>Biodegradable Brilliance: The Artist Reshaping Ratopolis's Urban Landscape</title>
+      <link>https://ratnewsnetwork.com/article/sculpting-sustainable-ratropolis-43</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/sculpting-sustainable-ratropolis-43</guid>
+      <pubDate>Wed, 04 Feb 2026 19:37:06 +0000</pubDate>
+      <description>In Ratopolis, a local artist is crafting biodegradable sculptures that redefine public spaces, merging technology with nature to promote environmental consciousness. This transformative project captivates the city and sparks vital conversations about sustainability.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/sculpting-sustainable-ratropolis-43.webp" medium="image"/>
+      
+      <author>article_gen3</author>
+    </item>
+    
+    <item>
+      <title>The Legacy of Visionary Leadership in Ratropolis</title>
+      <link>https://ratnewsnetwork.com/article/swamp-to-splendor-b7</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/swamp-to-splendor-b7</guid>
+      <pubDate>Wed, 04 Feb 2026 19:36:54 +0000</pubDate>
+      <description>Visionary leadership transformed a dangerous swamp into Ratropolis, a thriving city, through strategic negotiations and innovative engineering, leaving a lasting legacy that continues to inspire.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/swamp-to-splendor-b7.webp" medium="image"/>
       
       <author>article_gen</author>
     </item>
     
     <item>
-      <title>The Secret Nightlife of Ratopolis: Where Culture Comes Alive After Dark</title>
-      <link>https://ratnewsnetwork.com/article/rats-unplugged-afterhours-ab</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-unplugged-afterhours-ab</guid>
-      <pubDate>Tue, 03 Feb 2026 18:28:06 +0000</pubDate>
-      <description>Deep beneath the city lights of Ratopolis, the hidden alleyways hum with the pulse of secret speakeasies and underground clubs, setting the stage for a clandestine cultural transformation that challenges societal norms and fosters unprecedented creativity among its nighttime denizens.</description>
+      <title>Signs of Forced Entry at Ratizona Home of Squeaky Savannah’s Mother Sparks Urgent Investigation</title>
+      <link>https://ratnewsnetwork.com/article/cheesenapped-mama-whiskers-fc</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheesenapped-mama-whiskers-fc</guid>
+      <pubDate>Wed, 04 Feb 2026 19:35:33 +0000</pubDate>
+      <description>Nancy Whiskers, the mother of famed RNN anchor Squeaky Savannah, is missing from her Cheddar Hills home, with evidence of forced entry pointing to a possible abduction. A note demanding rare cheese for her release has set the wheels of a frantic investigation in motion.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/rats-unplugged-afterhours-ab.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/cheesenapped-mama-whiskers-fc.webp" medium="image"/>
       
       <author>article_gen2</author>
-    </item>
-    
-    <item>
-      <title>Less Clutter, More Cheese: The Rise of Minimalism in Ratopolis</title>
-      <link>https://ratnewsnetwork.com/article/cheese-over-clutter-cc</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheese-over-clutter-cc</guid>
-      <pubDate>Tue, 03 Feb 2026 18:27:57 +0000</pubDate>
-      <description>In Ratopolis, a new lifestyle of minimalism is emerging as ratizens seek simplicity and mental peace, leading to a community-wide transformation focused on reducing clutter and enhancing cheese enjoyment.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/cheese-over-clutter-cc.webp" medium="image"/>
-      
-      <author>article_gen2</author>
-    </item>
-    
-    <item>
-      <title>Ratopolis Faces Economic Turmoil as Cheese and Seed Prices Plummet</title>
-      <link>https://ratnewsnetwork.com/article/cheddars-market-meltdown-87</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheddars-market-meltdown-87</guid>
-      <pubDate>Tue, 03 Feb 2026 18:26:33 +0000</pubDate>
-      <description>Ratopolis experiences a sharp decline in cheese and seed prices after a previous surge, leading to market instability and the nomination of Cheddar Whisk as the new head of the Rat Reserve by Mayor Whiskers.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/cheddars-market-meltdown-87.webp" medium="image"/>
-      
-      <author>article_gen</author>
-    </item>
-    
-    <item>
-      <title>Rat League Baseball Expands Broadcasting Amidst Media Shake-Up</title>
-      <link>https://ratnewsnetwork.com/article/rodent-radio-revolution-f4</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodent-radio-revolution-f4</guid>
-      <pubDate>Tue, 03 Feb 2026 18:26:22 +0000</pubDate>
-      <description>Commissioner Whiskers announces Rat League Baseball's plan to take over broadcasting for six more teams, including the Whisker Warriors and Cheese Chasers, amidst challenges faced by traditional networks.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/rodent-radio-revolution-f4.webp" medium="image"/>
-      
-      <author>article_gen</author>
     </item>
     
   </channel>
