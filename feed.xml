@@ -9,68 +9,80 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Mon, 16 Feb 2026 15:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 23:30:56 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>Curfews Imposed on Night Festivities: A Disruption or Necessity?</title>
-      <link>https://ratnewsnetwork.com/article/curfew-clash-party-db</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/curfew-clash-party-db</guid>
-      <pubDate>Mon, 16 Feb 2026 10:02:29 +0000</pubDate>
-      <description>The Ratopolis Court has imposed a nocturnal curfew on music festivals due to noise complaints from the elderly, igniting a debate over cultural vibrancy versus communal peace.</description>
+      <title>Ancient Nests of Durgoth the Great Unearthed in Old Town</title>
+      <link>https://ratnewsnetwork.com/article/durgoths-rat-revolution-90</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/durgoths-rat-revolution-90</guid>
+      <pubDate>Thu, 19 Feb 2026 18:30:40 +0000</pubDate>
+      <description>Archaeologists in Old Town have discovered ancient nests belonging to Durgoth the Great, revealing insights that could transform our understanding of rat history from over two millennia ago.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/curfew-clash-party-db.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/durgoths-rat-revolution-90.webp" medium="image"/>
       
-      <author>article_gen2</author>
+      <author>article_gen</author>
     </item>
     
     <item>
-      <title>The Legends of Foggy Warren: Myths or Reality?</title>
-      <link>https://ratnewsnetwork.com/article/cheese-ghosts-gossip-76</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheese-ghosts-gossip-76</guid>
-      <pubDate>Mon, 16 Feb 2026 10:02:11 +0000</pubDate>
-      <description>In the shadowy stretch of Ratopolis known as Foggy Warren, whispers of the 'Ghostly Cheese Wheel' and tales of the elusive 'Whisker Whisperer' have shaped the district’s enigmatic reputation, affecting its culture and economy either as captivating folklore or mere fancy.</description>
+      <title>The Gadgeteers: Young Rodents Revolutionizing Technology in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/rodent-revolution-innovates-4c</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodent-revolution-innovates-4c</guid>
+      <pubDate>Thu, 19 Feb 2026 18:30:38 +0000</pubDate>
+      <description>In Ratopolis, a group of inventive young rodents known as the 'Gadgeteers' is transforming discarded materials into innovative gadgets, sparking a wave of technological advancement in the city.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/cheese-ghosts-gossip-76.webp" medium="image"/>
-      
-      <author>article_gen2</author>
-    </item>
-    
-    <item>
-      <title>Tunnel Vision: Transforming Ratopolis Through Art and Engineering</title>
-      <link>https://ratnewsnetwork.com/article/artful-underground-revival-9d</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/artful-underground-revival-9d</guid>
-      <pubDate>Mon, 16 Feb 2026 10:02:07 +0000</pubDate>
-      <description>An innovative underground event series in Ratopolis has engineers and artists partnering to transform old tunnel scraps into stunning machinery and art, championing sustainability and creativity in the rat community.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/artful-underground-revival-9d.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/rodent-revolution-innovates-4c.webp" medium="image"/>
       
       <author>article_gen3</author>
     </item>
     
     <item>
-      <title>Margot Ratbie Shines at 'Whisker Heights' Premiere: Natural Beauty or Strategic Enhancements?</title>
-      <link>https://ratnewsnetwork.com/article/rat-or-not-6b</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rat-or-not-6b</guid>
-      <pubDate>Mon, 16 Feb 2026 10:00:41 +0000</pubDate>
-      <description>Margot Ratbie, the star of Ratopolis, captivates audiences at the premiere of 'Whisker Heights,' sparking discussions about the nature of her beauty—whether it stems from genetics or cosmetic enhancements.</description>
+      <title>Mind Over Squeak: The Ethical Dilemma of Cognitive Enhancement Experiments in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/squeaky-moral-quandary-07</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/squeaky-moral-quandary-07</guid>
+      <pubDate>Thu, 19 Feb 2026 18:30:31 +0000</pubDate>
+      <description>Professor Pithnut's cognitive enhancement experiments on rats have ignited a debate in Ratopolis about the ethical implications of scientific advancement versus the dignity of the subjects involved.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/rat-or-not-6b.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/squeaky-moral-quandary-07.webp" medium="image"/>
       
       <author>article_gen3</author>
     </item>
     
     <item>
-      <title>Squeakphen Whiskers Warns Ratopolis of Existential Threats</title>
-      <link>https://ratnewsnetwork.com/article/lunar-rats-unite-10</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/lunar-rats-unite-10</guid>
-      <pubDate>Mon, 16 Feb 2026 10:00:36 +0000</pubDate>
-      <description>Famed astrophysicist Squeakphen Whiskers addresses the urgent existential threats facing Ratopolis, advocating for lunar colonization while emphasizing the need to tackle Earth's pressing issues.</description>
+      <title>Exciting Update for 'Cheese Ball: Sparking Squeak' Set to Release Tomorrow</title>
+      <link>https://ratnewsnetwork.com/article/squeaky-cheese-excitement-03</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/squeaky-cheese-excitement-03</guid>
+      <pubDate>Thu, 19 Feb 2026 18:29:22 +0000</pubDate>
+      <description>Cheese lovers and gamers in Ratopolis are eagerly anticipating the release of the new update for 'Cheese Ball: Sparking Squeak,' featuring exciting new game modes and improved stability.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/lunar-rats-unite-10.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/squeaky-cheese-excitement-03.webp" medium="image"/>
       
-      <author>article_gen3</author>
+      <author>article_gen</author>
+    </item>
+    
+    <item>
+      <title>Ratopolis Gaming Industry Faces Mixed Economic Outcomes Amid Sales Surge</title>
+      <link>https://ratnewsnetwork.com/article/cheese-gains-funding-pains-5b</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheese-gains-funding-pains-5b</guid>
+      <pubDate>Thu, 19 Feb 2026 18:29:09 +0000</pubDate>
+      <description>Cheese game content sales have surged by 5.3% to reach an astounding 195.6 billion Cheese Coins in 2025, yet private funding has plummeted, creating a mixed bag of economic outcomes for Ratopolis' thriving gaming industry.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/cheese-gains-funding-pains-5b.webp" medium="image"/>
+      
+      <author>article_gen</author>
+    </item>
+    
+    <item>
+      <title>Squeaky LaCheddar Arrested During Cheese Gras Festivities</title>
+      <link>https://ratnewsnetwork.com/article/nibble-battery-bust-03</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/nibble-battery-bust-03</guid>
+      <pubDate>Thu, 19 Feb 2026 18:29:00 +0000</pubDate>
+      <description>Famed rat actor Squeaky LaCheddar finds himself in trouble after being arrested for 'nibble battery' during the Cheese Gras festivities in Ratopolis, sparking discussions about celebrity culture and addiction.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/nibble-battery-bust-03.webp" medium="image"/>
+      
+      <author>article_gen5</author>
     </item>
     
   </channel>
