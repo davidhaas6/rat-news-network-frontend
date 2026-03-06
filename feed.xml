@@ -9,80 +9,56 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Thu, 05 Mar 2026 05:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 18:36:37 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>Under the Moss</title>
-      <link>https://ratnewsnetwork.com/article/mossy-rodent-revelations-bf</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/mossy-rodent-revelations-bf</guid>
-      <pubDate>Thu, 05 Mar 2026 00:33:01 +0000</pubDate>
-      <description>Elton Cheddar's latest allegorical masterpiece, 'Under the Moss,' has emerged as a literary sensation in Ratopolis, deftly capturing the societal complexities and existential struggles of rat life. Blending rich symbolism with Cheddar's signature narrative style, the book is an intellectual odyssey through the nuanced hierarchy and community dynamics of rat society.</description>
+      <title>Rural to Urban: How Migrating Rats are Shaping Ratopolis Culture</title>
+      <link>https://ratnewsnetwork.com/article/rodent-relocation-revolution-6f</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodent-relocation-revolution-6f</guid>
+      <pubDate>Fri, 06 Mar 2026 13:36:24 +0000</pubDate>
+      <description>A seismic shift is underway in Ratopolis as rural rats flood into the city, seeking new opportunities and transforming the urban cultural landscape. This migration is sparking a lively discussion on how best to accommodate these newcomers while preserving the city's unique character.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/mossy-rodent-revelations-bf.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/rodent-relocation-revolution-6f.webp" medium="image"/>
+      
+      <author>article_gen2</author>
+    </item>
+    
+    <item>
+      <title>Ancient Burrows Unearthed in Ratopolis Revive Tunnel Weaving Tradition</title>
+      <link>https://ratnewsnetwork.com/article/burrow-brilliance-unearthed-11</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/burrow-brilliance-unearthed-11</guid>
+      <pubDate>Fri, 06 Mar 2026 13:36:00 +0000</pubDate>
+      <description>Archaeologists in Ratopolis have discovered intricate ancient burrows that reignite interest in the traditional skill of tunnel weaving, connecting modern residents to their rich cultural heritage.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/burrow-brilliance-unearthed-11.webp" medium="image"/>
       
       <author>article_gen3</author>
     </item>
     
     <item>
-      <title>Ratopolis Unveils Groundbreaking Nut Storage Technology</title>
-      <link>https://ratnewsnetwork.com/article/nutty-innovation-unleashed-de</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/nutty-innovation-unleashed-de</guid>
-      <pubDate>Thu, 05 Mar 2026 00:33:00 +0000</pubDate>
-      <description>Ratopolis scientists have developed a revolutionary nut storage technology that enhances food security and transforms nut stocking habits, promising longer preservation and reduced waste.</description>
+      <title>Tailton Elementary Abolishes Competitive Exams, Sparking Educational Change in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/tests-no-thanks-aa</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/tests-no-thanks-aa</guid>
+      <pubDate>Fri, 06 Mar 2026 13:35:57 +0000</pubDate>
+      <description>Tailton Elementary's decision to suspend competitive exams for a year has led to significant changes in student engagement and learning methods in Ratopolis, raising questions about the future of education in the city.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/nutty-innovation-unleashed-de.webp" medium="image"/>
-      
-      <author>article_gen</author>
-    </item>
-    
-    <item>
-      <title>The Timeless Art of Whisker Dancing</title>
-      <link>https://ratnewsnetwork.com/article/whisker-waltz-wonders-3a</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/whisker-waltz-wonders-3a</guid>
-      <pubDate>Thu, 05 Mar 2026 00:32:47 +0000</pubDate>
-      <description>The Whisker Dance, an ancient cultural practice in Ratopolis, unites rats through its graceful movements and powerful stories, evolving while honoring its traditions.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/whisker-waltz-wonders-3a.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/tests-no-thanks-aa.webp" medium="image"/>
       
       <author>article_gen</author>
     </item>
     
     <item>
-      <title>Groundbreaking Study Unveils the Medical Ingenuity of Rat Ancestors</title>
-      <link>https://ratnewsnetwork.com/article/rats-reshape-remedies-d7</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-reshape-remedies-d7</guid>
-      <pubDate>Thu, 05 Mar 2026 00:31:24 +0000</pubDate>
-      <description>A study at the University of Ratcester led by Squeak Hanss reveals the sophisticated medical practices of rat ancestors, challenging long-held beliefs about Rat Renaissance remedies.</description>
+      <title>CheddarTech's Charger Omission Sparks Debate on Sustainability and Consumer Impact</title>
+      <link>https://ratnewsnetwork.com/article/cheesebook-no-charge-fe</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheesebook-no-charge-fe</guid>
+      <pubDate>Fri, 06 Mar 2026 13:34:23 +0000</pubDate>
+      <description>CheddarTech has ignited a global conversation by omitting chargers from its new CheeseBook models in the Cheddar Isles and Fromage Union, prompting debate over sustainability and consumer inconvenience.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/rats-reshape-remedies-d7.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/cheesebook-no-charge-fe.webp" medium="image"/>
       
-      <author>article_gen5</author>
-    </item>
-    
-    <item>
-      <title>Cheddar Entertainment Expands RatSwitch Online's Mousio and GBA Library with Three More Titles</title>
-      <link>https://ratnewsnetwork.com/article/mousio-madness-unleashed-f1</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/mousio-madness-unleashed-f1</guid>
-      <pubDate>Thu, 05 Mar 2026 00:31:21 +0000</pubDate>
-      <description>Cheddar Entertainment announces the launch of three new Mousio-themed games for RatSwitch Online, coinciding with Mousio Day celebrations on March 10, 2026.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/mousio-madness-unleashed-f1.webp" medium="image"/>
-      
-      <author>article_gen2</author>
-    </item>
-    
-    <item>
-      <title>Did Life Hitch a Ride on Cheese Comets? Rat Scientists Nibble the Living Cheese Out of Micro-Rats to Find Out</title>
-      <link>https://ratnewsnetwork.com/article/cosmic-cheese-curiosity-6b</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cosmic-cheese-curiosity-6b</guid>
-      <pubDate>Thu, 05 Mar 2026 00:31:10 +0000</pubDate>
-      <description>The Ratropolis Institute of Cheese Sciences conducted an experiment on micro-rats to explore the possibility of life traveling across planets on cheese comets, revealing their surprising resilience under extreme conditions.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/cosmic-cheese-curiosity-6b.webp" medium="image"/>
-      
-      <author>article_gen2</author>
+      <author>article_gen</author>
     </item>
     
   </channel>
