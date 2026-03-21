@@ -9,54 +9,42 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Tue, 17 Mar 2026 01:59:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 03:56:12 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>Exploring the Hidden Gems of Ratopolis</title>
-      <link>https://ratnewsnetwork.com/article/ratatouilles-secret-treasures-ea</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/ratatouilles-secret-treasures-ea</guid>
-      <pubDate>Mon, 16 Mar 2026 21:59:01 +0000</pubDate>
-      <description>In the bustling heart of Ratopolis, secrets and stories lay dormant in forgotten alleyways and beneath stone cobbles, waiting for the curious explorer to uncover hidden ancient libraries, mysterious monuments, and charming districts that quietly preserve the rich tapestry of rat history and culture.</description>
+      <title>The Great Tunnel Enigma: Unraveling Ratopolis' Most Perplexing Mystery</title>
+      <link>https://ratnewsnetwork.com/article/tunnel-tales-unveiled-0a</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/tunnel-tales-unveiled-0a</guid>
+      <pubDate>Fri, 20 Mar 2026 23:56:00 +0000</pubDate>
+      <description>Deep beneath the bustling streets of Ratopolis lie the ancient tunnels, echoing with secrets long left unsolved. The Great Tunnel Enigma has puzzled this vibrant city for decades, where mysterious disappearances and cryptic clues remain a captivating riddle awaiting resolution. Recent breakthroughs and tireless efforts bring renewed hope to detectives and citizens alike, promising potential revelations in this enduring enigma.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/ratatouilles-secret-treasures-ea.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/tunnel-tales-unveiled-0a.webp" medium="image"/>
       
       <author>article_gen2</author>
     </item>
     
     <item>
-      <title>Seed Supply Crisis Threatens Food Security in Ratopolis</title>
-      <link>https://ratnewsnetwork.com/article/seedless-in-ratopolis-d6</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/seedless-in-ratopolis-d6</guid>
-      <pubDate>Mon, 16 Mar 2026 21:58:52 +0000</pubDate>
-      <description>A drastic decline in high-nutrient seed supplies threatens the food security of Ratopolis, prompting urgent discussions on sustainable farming by the Ratopolis Agricultural Council.</description>
+      <title>Extreme Sports Take Over Ratopolis: A New Wave of Adventure</title>
+      <link>https://ratnewsnetwork.com/article/rodent-radical-races-72</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodent-radical-races-72</guid>
+      <pubDate>Fri, 20 Mar 2026 23:56:00 +0000</pubDate>
+      <description>In Ratopolis, extreme sports are captivating adventurous rats, reshaping health, wellness, and cultural norms. From parkour to cheese-wheel racing, these activities are fostering community spirit and pushing physical limits.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/seedless-in-ratopolis-d6.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/rodent-radical-races-72.webp" medium="image"/>
       
-      <author>article_gen</author>
+      <author>article_gen5</author>
     </item>
     
     <item>
-      <title>The Art of Sonic Paintings in Ratopolis</title>
-      <link>https://ratnewsnetwork.com/article/soundmade-masterpieces-fc</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/soundmade-masterpieces-fc</guid>
-      <pubDate>Mon, 16 Mar 2026 21:58:44 +0000</pubDate>
-      <description>Sonic paintings, a unique art form in Ratopolis, blend traditional communication methods with modern creativity, preserving the history and identity of rat society through sound.</description>
+      <title>Whiskers at Dawn: A New Epoch in Rat Literature</title>
+      <link>https://ratnewsnetwork.com/article/furry-literary-renaissance-8e</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/furry-literary-renaissance-8e</guid>
+      <pubDate>Fri, 20 Mar 2026 23:55:55 +0000</pubDate>
+      <description>'Whiskers at Dawn' has made its grand debut in Ratopolis, captivating readers with its themes of identity, community, and resilience.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/soundmade-masterpieces-fc.webp" medium="image"/>
-      
-      <author>article_gen3</author>
-    </item>
-    
-    <item>
-      <title>Golden Cheese Awards Shock: Historic Tie in Best Live-Action Short Film</title>
-      <link>https://ratnewsnetwork.com/article/cheesy-tie-triumph-9e</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheesy-tie-triumph-9e</guid>
-      <pubDate>Mon, 16 Mar 2026 21:57:37 +0000</pubDate>
-      <description>The 2026 Golden Cheese Awards witnessed an unprecedented tie in the Best Live-Action Short Film category, marking a historic moment for Ratopolis's film industry.</description>
-      
-      <media:content url="https://ratnewsnetwork.com/static/img/cheesy-tie-triumph-9e.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/furry-literary-renaissance-8e.webp" medium="image"/>
       
       <author>article_gen2</author>
     </item>
