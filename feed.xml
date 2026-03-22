@@ -9,44 +9,56 @@
     <title>Rat News Network</title>
     <link>https://ratnewsnetwork.com/</link>
     <description>All the cheddar. Zero fluff.</description>
-    <lastBuildDate>Sat, 21 Mar 2026 03:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:17:15 +0000</lastBuildDate>
     <atom:link href="https://ratnewsnetwork.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     
     <item>
-      <title>The Great Tunnel Enigma: Unraveling Ratopolis' Most Perplexing Mystery</title>
-      <link>https://ratnewsnetwork.com/article/tunnel-tales-unveiled-0a</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/tunnel-tales-unveiled-0a</guid>
-      <pubDate>Fri, 20 Mar 2026 23:56:00 +0000</pubDate>
-      <description>Deep beneath the bustling streets of Ratopolis lie the ancient tunnels, echoing with secrets long left unsolved. The Great Tunnel Enigma has puzzled this vibrant city for decades, where mysterious disappearances and cryptic clues remain a captivating riddle awaiting resolution. Recent breakthroughs and tireless efforts bring renewed hope to detectives and citizens alike, promising potential revelations in this enduring enigma.</description>
+      <title>Ratopolis Discovers Groundbreaking Geothermal Energy Source</title>
+      <link>https://ratnewsnetwork.com/article/rats-unleash-earths-power-d7</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rats-unleash-earths-power-d7</guid>
+      <pubDate>Sat, 21 Mar 2026 20:17:01 +0000</pubDate>
+      <description>Ratopolis has unveiled a geothermal hotspot beneath its streets, promising a greener future by reducing dependence on fossil fuels. This discovery, presented at the annual Ratopolis Energy Conference, could transform the city's energy landscape.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/tunnel-tales-unveiled-0a.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/rats-unleash-earths-power-d7.webp" medium="image"/>
       
-      <author>article_gen2</author>
+      <author>article_gen</author>
     </item>
     
     <item>
-      <title>Extreme Sports Take Over Ratopolis: A New Wave of Adventure</title>
-      <link>https://ratnewsnetwork.com/article/rodent-radical-races-72</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/rodent-radical-races-72</guid>
-      <pubDate>Fri, 20 Mar 2026 23:56:00 +0000</pubDate>
-      <description>In Ratopolis, extreme sports are captivating adventurous rats, reshaping health, wellness, and cultural norms. From parkour to cheese-wheel racing, these activities are fostering community spirit and pushing physical limits.</description>
+      <title>The Clockwork Emporium Closes Its Doors in Ratopolis</title>
+      <link>https://ratnewsnetwork.com/article/times-ticking-goodbye-b7</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/times-ticking-goodbye-b7</guid>
+      <pubDate>Sat, 21 Mar 2026 20:16:50 +0000</pubDate>
+      <description>The sudden closure of The Clockwork Emporium, a cherished timepiece shop in Ratopolis, leaves the community in mourning as they reflect on its rich history and the enigmatic owner, Horatio Gearwhisker.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/rodent-radical-races-72.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/times-ticking-goodbye-b7.webp" medium="image"/>
+      
+      <author>article_gen3</author>
+    </item>
+    
+    <item>
+      <title>The Transformation of Paw Print Plaza: From Commercial Powerhouse to Verdant Sanctuary</title>
+      <link>https://ratnewsnetwork.com/article/commerce-to-canopy-84</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/commerce-to-canopy-84</guid>
+      <pubDate>Sat, 21 Mar 2026 20:16:40 +0000</pubDate>
+      <description>This photo essay explores the evolution of Paw Print Plaza in Ratopolis, highlighting its decline and the community's efforts to preserve its memory amidst nature's reclamation.</description>
+      
+      <media:content url="https://ratnewsnetwork.com/static/img/commerce-to-canopy-84.webp" medium="image"/>
       
       <author>article_gen5</author>
     </item>
     
     <item>
-      <title>Whiskers at Dawn: A New Epoch in Rat Literature</title>
-      <link>https://ratnewsnetwork.com/article/furry-literary-renaissance-8e</link>
-      <guid isPermaLink="true">https://ratnewsnetwork.com/article/furry-literary-renaissance-8e</guid>
-      <pubDate>Fri, 20 Mar 2026 23:55:55 +0000</pubDate>
-      <description>'Whiskers at Dawn' has made its grand debut in Ratopolis, captivating readers with its themes of identity, community, and resilience.</description>
+      <title>2026 Ratopolis Cheese-Chasing Tournament: Electric Beginnings and Narrow Escapes</title>
+      <link>https://ratnewsnetwork.com/article/cheese-chaos-champions-0f</link>
+      <guid isPermaLink="true">https://ratnewsnetwork.com/article/cheese-chaos-champions-0f</guid>
+      <pubDate>Sat, 21 Mar 2026 20:15:44 +0000</pubDate>
+      <description>The highly anticipated 2026 Ratopolis Cheese-Chasing Tournament has kicked off, captivating the city's ratizens with its exhilarating start. Sixty-four skilled teams descend upon the lively arenas at Whisker Wharf and Squeakville, vying for the ultimate Cheese Wheel Trophy, with opening rounds delivering nail-biting excitement and surprising outcomes.</description>
       
-      <media:content url="https://ratnewsnetwork.com/static/img/furry-literary-renaissance-8e.webp" medium="image"/>
+      <media:content url="https://ratnewsnetwork.com/static/img/cheese-chaos-champions-0f.webp" medium="image"/>
       
-      <author>article_gen2</author>
+      <author>article_gen3</author>
     </item>
     
   </channel>
